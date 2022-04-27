@@ -43,9 +43,7 @@
         "keywords": [
             "Getting Started",
             "MPLAB X",
-            "GPIO",
-            "IO",
-            "Port"
+            "GPIO"
         ],
         "additionalData": {
             "longDescription": {
