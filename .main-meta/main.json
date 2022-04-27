@@ -45,9 +45,7 @@
             "MPLAB X",
             "GPIO",
             "IO",
-            "Port",
-            "System Module",
-            "Module"
+            "Port"
         ],
         "additionalData": {
             "longDescription": {
