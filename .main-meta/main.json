@@ -4,7 +4,7 @@
     "content": {
         "metaDataVersion": "1.3.0",
         "name": "com.microchip.mcu8.mplabx.project.avr64dd32-getting-started-with-gpio-mplabx",
-        "version": "1.0.0 ",
+        "version": "1.0.0",
         "displayName": "Getting Started with GPIO Using the AVR64DD32 Microcontroller",
         "projectName": "avr64dd32-getting-started-with-gpio-mplabx",
         "shortDescription": "Guide for using the GPIO of the AVR64DD32 Microcontroller",
@@ -42,8 +42,11 @@
         ],
         "keywords": [
             "Getting Started",
+            "Bare Metal",
             "MPLAB X",
-            "GPIO"
+            "GPIO",
+            "IO",
+            "PORT"
         ],
         "additionalData": {
             "longDescription": {
